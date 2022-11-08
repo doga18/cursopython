@@ -33,5 +33,5 @@ novos_produtos = [
 
 p(novos_produtos)
 # Então aqui temos a list Com, Filtro aqui, filtrando que o N seja menor que 5, sendo assim, exibirá até o valor 4.
-lista = [n for n in range(10) if n < 5]
+# lista = [n for n in range(10) if n < 5]
 print(lista)
