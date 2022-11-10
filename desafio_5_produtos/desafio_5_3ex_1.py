@@ -2,6 +2,7 @@ import copy
 from audioop import reverse
 
 from aula41_filtro_de_dados_list_comprehension.aula41_filtro_dados_listcomprehension import novos_produtos
+
 from dados import produtos, douglas
 
 #novos_produtos = copy.deepcopy(produtos)
