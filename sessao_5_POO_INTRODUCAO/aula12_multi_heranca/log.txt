@@ -1,0 +1,15 @@
+info: PocoPhone X3 ProNFC não está ligado, não é possível conectar. Ligue o aparelho antes.
+info: PocoPhone X3 ProNFC conectando smartphone.
+error: PocoPhone X3 ProNFC já está conectado.
+info: PocoPhone X3 ProNFC não está ligado, não é possível conectar. Ligue o aparelho antes.
+info: PocoPhone X3 ProNFC conectando smartphone.
+error: PocoPhone X3 ProNFC já está conectado.
+info: PocoPhone X3 ProNFC não está ligado, não é possível conectar. Ligue o aparelho antes.
+info: PocoPhone X3 ProNFC conectando smartphone.
+error: PocoPhone X3 ProNFC já está conectado.
+info: PocoPhone X3 ProNFC não está ligado, não é possível conectar. Ligue o aparelho antes.
+info: PocoPhone X3 ProNFC conectando smartphone.
+error: PocoPhone X3 ProNFC já está conectado.
+info: PocoPhone X3 ProNFC não está ligado, não é possível conectar. Ligue o aparelho antes.
+info: PocoPhone X3 ProNFC conectando smartphone.
+error: PocoPhone X3 ProNFC já está conectado.
